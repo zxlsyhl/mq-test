@@ -1,4 +1,4 @@
-package zxl.com.kafkatest;
+package org.zxl.springdemo.kafkatest;
 
 public class Tt {
     public static void main(String[] args) {
