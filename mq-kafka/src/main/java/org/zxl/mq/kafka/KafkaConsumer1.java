@@ -1,4 +1,4 @@
-package org.zxl.springdemo.kafkatest;
+package org.zxl.mq.kafka;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;

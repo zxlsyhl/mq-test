@@ -1,4 +1,4 @@
-package org.zxl.springdemo.kafkatest;
+package org.zxl.mq.kafka;
 
 import org.apache.kafka.clients.producer.Callback;
 import org.apache.kafka.clients.producer.KafkaProducer;

@@ -1,4 +1,4 @@
-package org.zxl.springdemo.kafkatest;
+package org.zxl.mq.kafka;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.KafkaException;
