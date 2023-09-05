@@ -11,7 +11,7 @@
 
     <artifactId>mq-kafka</artifactId>
     <properties>
-        <kafka.version>2.3.0</kafka.version>
+        <kafka.version>2.6.3</kafka.version>
     </properties>
 
     <dependencies>
